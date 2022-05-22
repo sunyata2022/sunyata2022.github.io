@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 万码皆空</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on 万码皆空</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 17 May 2022 16:39:16 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>c&#43;&#43;</title>
+      <link>/categories/c&#43;&#43;/</link>
+      <pubDate>Tue, 17 May 2022 16:39:16 +0000</pubDate>
+      
+      <guid>/categories/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
